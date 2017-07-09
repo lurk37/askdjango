@@ -1,5 +1,5 @@
 # mywget.py
-
+#사용예시 - python mywget.py 다운받을 파일명
 import os
 import sys
 import requests
